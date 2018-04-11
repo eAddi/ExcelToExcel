@@ -1,0 +1,11 @@
+C:\Users\Elliott\Documents\Visual Studio 2017\Projects\TRY1\TRY1\obj\Debug\TRY1.Properties.Resources.resources
+C:\Users\Elliott\Documents\Visual Studio 2017\Projects\TRY1\TRY1\obj\Debug\TRY1.csproj.GenerateResource.Cache
+C:\Users\Elliott\Documents\Visual Studio 2017\Projects\TRY1\TRY1\bin\Debug\TRY1.exe.config
+C:\Users\Elliott\Documents\Visual Studio 2017\Projects\TRY1\TRY1\bin\Debug\TRY1.exe
+C:\Users\Elliott\Documents\Visual Studio 2017\Projects\TRY1\TRY1\bin\Debug\TRY1.pdb
+C:\Users\Elliott\Documents\Visual Studio 2017\Projects\TRY1\TRY1\obj\Debug\TRY1.csproj.ResolveComReference.cache
+C:\Users\Elliott\Documents\Visual Studio 2017\Projects\TRY1\TRY1\obj\Debug\TRY1.exe
+C:\Users\Elliott\Documents\Visual Studio 2017\Projects\TRY1\TRY1\obj\Debug\TRY1.pdb
+C:\Users\Elliott\Documents\Visual Studio 2017\Projects\TRY1\TRY1\obj\Debug\TRY1.MainForm.resources
+C:\Users\Elliott\Documents\Visual Studio 2017\Projects\TRY1\TRY1\obj\Debug\TRY1.csprojResolveAssemblyReference.cache
+C:\Users\Elliott\Documents\Visual Studio 2017\Projects\TRY1\TRY1\bin\Debug\FastMember.dll

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ExcelToExcel.Cell_Style">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAACAAAAGAIAAAgAAAAAAAICAAAAAgAAAAAA=</HashCode>
+      <FileName>Cell_Style.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ExcelToExcel.Hierarchie">
+    <Position X="5.25" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAACAhAAAAAQIAgEAAAAIAAAACBAAAAAAAAAAAAAAgI=</HashCode>
+      <FileName>Hierarchie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExcelToExcel.Local">
+    <Position X="8.25" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAIAAgQAEAIEQIAAAACAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Local.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExcelToExcel.Program" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExcelToExcel.Template_Metro">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Template_Metro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExcelToExcel.Tools" Collapsed="true">
+    <Position X="9" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAADACAAAAAAAAAAAAAMAAAA=</HashCode>
+      <FileName>Tools.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExcelToExcel.MainForm" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQBAGAASBCGBIAAISBAQACAAhoAAAoEHoAKAAAIAc=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
